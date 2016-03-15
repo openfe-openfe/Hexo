@@ -2,7 +2,7 @@
 title: "使用Hexo搭建个人博客"
 date: 2016-03-08 09:13:28
 tags: Hexo
-updated: 2016-03-08 09:13:28
+updated: 2016-03-15 15:11:28
 comments: true
 categories: Hexo
 ---
@@ -155,7 +155,13 @@ deploy:
   branch: master
 ```
 
-设置好了之后，使用下面的命令部署：
+设置好了之后，使用下面的命令安装[ hexo-deployer-git ](https://github.com/hexojs/hexo-deployer-git)插件，只有安装了插件之后才可以部署到Github Pages。
+
+```powershell
+$ npm install hexo-deployer-git --save
+```
+
+安装完插件之后使用下面的命令进行部署：
 
 ```powershell
 $ hexo g #生成静态文件
