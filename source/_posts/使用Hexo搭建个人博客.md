@@ -1,4 +1,4 @@
----
+﻿---
 title: "使用Hexo搭建个人博客"
 date: 2016-03-08 09:13:28
 tags: Hexo
@@ -13,9 +13,9 @@ categories: Hexo
 
 目前搭建独立的个人博客有很多种方式，你可以选择购买主机搭建动态博客 - [WordPress](https://wordpress.org)等，也可以使用[Github Pages](https://pages.github.com)来搭建一个静态的个人博客。我选择了现在很热门的[Github Pages](https://pages.github.com) + [Hexo](https://hexo.io) 的方式来搭建独立的个人博客。
 
-## 一、前期准备
+## 前期准备
 
-### 1.  相关网站
+### 相关网站
 
 在搭建个人博客的过程中，你可能会使用到下面几个网站。在这几个网站中都有相应的官方文档及教程。如果官方文档不能满足你，那么请[Google](https://www.google.com)。
 
@@ -25,15 +25,15 @@ categories: Hexo
 [Node.js 官网](https://nodejs.org)
 [Git 官网](http://git-scm.com)
 
-### 2. 相关的Hexo博客搭建教程
+### 相关的Hexo博客搭建教程
 
 [使用GitHub和Hexo搭建免费静态Blog](http://wsgzao.github.io/post/hexo-guide)
 [hexo搭建静态博客以及优化](http://code.wileam.com/build-a-hexo-blog-and-optimize)
 [一步步在GitHub上创建博客主页](http://www.pchou.info/web-build/2013/01/03/build-github-blog-page-01.html)
 
-## 二、搭建Git环境
+## 搭建Git环境
 
-### 1. 注册Github
+### 注册Github
 
 进入[Github 网站](https://github.com)，按照提示进行注册，然后登录。
 
@@ -45,13 +45,13 @@ categories: Hexo
 
 至此，Github账号创建完成，GIthub Pages 所需要的版本库也创建好了。
 
-### 2. 本地安装Git
+### 本地安装Git
 
 进入[ Git 官网](https://github.com)，下载相应的 Git 版本，下载完成之后按照引导安装 Git 。安装完成之后在开始菜单中会有一个 Git Bash 。这是一个类似于Liunx的终端，在里面可以模拟Linux下的终端进行操作。
 
 ![ Git Local | 300*0 ](http://7xrnl9.com1.z0.glb.clouddn.com/Git_local.png)
 
-### 3. 配置SSH
+### 配置SSH
 
 打开 Git Bash ，执行下面的命令生成 SSH 访问私钥及公钥。
 
@@ -73,16 +73,16 @@ $ ssh -T git@github.com
 
 ![ ssh -T](http://7xrnl9.com1.z0.glb.clouddn.com/ssh-T.png)
  
-## 三、安装Hexo
+## 安装Hexo
 
 Hexo的安装在其[官方文档](https://hexo.io/zh-cn/docs/)中有很详细的说明。下面将简单介绍Hexo的安装。
 
-### 1. 安装前提
+### 安装前提
 
 - 安装[ Node.js ](https://nodejs.org)，请进入Node.js 的官网下载安装。
 - 安装[ Git ](http://git-scm.com)，前面已经说明，不再赘述。
 
-### 2. 安装Hexo
+### 安装Hexo
 上面两个工具安装完整之后，打开 ` Git Bash ` ，只需要使用npm即可完成Hexo的安装。
 
 ```powershell
@@ -115,7 +115,7 @@ $ npm install
 - **themes** 是[主题](https://hexo.io/themes)文件夹，Hexo会根据主题来生成不同的静态页面。
 - **scaffolds**是模板件夹，当新建文章的时候，Hexo会根据模板来建立文件。
 
-### 3. 修改主题
+### 修改主题
 
 我使用的是NexT主题，下面只介绍怎么安装这种主题，其他主题可以在Hexo Themes、github里面寻找。
 
@@ -129,14 +129,14 @@ $ git clone https://github.com/iissnan/hexo-theme-next.git themes/next
 theme: next
 ```
 
-### 4. 本地查看调试
+### 本地查看调试
  
 ```powershell
 $ hexo g #生成
 $ hexo s #启动本地服务，进行文章预览调试。hexo s --debug 命令可以用来调试
 ```
 
-### 5. 部署到Github Pages
+### 部署到Github Pages
 
 先使用下面的命令对Git进行初始配置。
 ```powershell
@@ -168,13 +168,13 @@ $ hexo d #部署到github
 $ hexo d -g #在部署前先生成
 ```
 
-### 6.  nexT 主题拓展
+### NexT 主题拓展
 
 [ NexT 文档 ](http://theme-next.iissnan.com/) - NexT的详细配置可以在这里查看。
 
 [ NexT Github 地址 ](https://github.com/iissnan/hexo-theme-next) - 想要二次开发，可以Fork一下。
 
-## 四、Hexo常用命令
+## Hexo常用命令
 
 下面仅列出几种常用的命令。更详细的命令请查看[Hexo官方文档](https://hexo.io/zh-cn/docs/commands.html)。
 
