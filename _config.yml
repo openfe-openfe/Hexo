@@ -93,3 +93,9 @@ feed:
 
 # Creative Commons 协议
 creative_commons: by-nc-sa
+
+# hexo sitemap网站地图
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
