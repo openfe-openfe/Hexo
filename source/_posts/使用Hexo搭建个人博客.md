@@ -1,7 +1,7 @@
 ﻿---
 title: "使用Hexo搭建个人博客"
 date: 2016-03-08 09:13:28
-tags: Hexo
+tags: ['Hexo','Git']
 updated: 2016-03-15 15:11:28
 comments: true
 categories: Hexo
