@@ -85,7 +85,7 @@
         {% set cc = {'by': 1, 'by-nc': 1, 'by-nc-nd': 1, 'by-nc-sa': 1, 'by-nd': 1, 'by-sa': 1, 'zero': 1} %}
         {% if theme.creative_commons in cc %}
           <div class="cc-license motion-element" itemprop="license">
-            <a href="http://creativecommons.org/licenses/{{ theme.creative_commons }}/4.0" class="cc-opacity" target="_blank">
+            <a href="http://creativecommons.org/licenses/{{ theme.creative_commons }}/4.0" class="cc-opacity" target="_blank" rel="external nofollow">
               <img src="{{ url_for(theme.images) }}/cc-{{ theme.creative_commons }}.svg" alt="Creative Commons" />
             </a>
           </div>
@@ -96,7 +96,7 @@
             <p class="site-author-name">{{ theme.links_title }}</p>
             {% for name, link in theme.links %}
               <span class="links-of-author-item">
-                <a href="{{ link }}" target="_blank">{{ name }}</a>
+                <a href="{{ link }}" target="_blank" rel="external nofollow">{{ name }}</a>
               </span>
             {% endfor %}
           {% endif %}
