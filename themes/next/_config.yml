@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Kylin, Hexo"
+keywords: "Kylin, Blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -170,10 +170,10 @@ mathjax: true
 
 
 # Swiftype Search API Key
-swiftype_key: B5RmdWLGZSyyiUPGkqoH
+#swiftype_key: B5RmdWLGZSyyiUPGkqoH
 
 # Baidu Analytics ID
-baidu_analytics: 5af41be35d3730c026b275474c251a67
+baidu_analytics: a674382dd19a1bddda9a96af6fef3495
 
 # Duoshuo ShortName
 #duoshuo_shortname: dkylin
@@ -184,11 +184,11 @@ disqus_shortname: dkylin
 # Baidu Share
 # Available value:
 #    button | slide
-#baidushare:
+#baidushare: true
 ##  type: button
 
 # Share
-#jiathis:
+jiathis: true
 #add_this_id:
 
 # Share
@@ -200,7 +200,7 @@ google_site_verification: google61924667016464b2.html
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-75644655-1
 
 
 # Make duoshuo show UA
@@ -229,17 +229,13 @@ facebook_sdk:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: yz5s4WVdLUaAhhdhWXghrHke-gzGzoHsz
+  app_key: Dd2nyznhqWTQFiBm5gsaED53
 
 
 # Tencent analytics ID
-# tencent_analytics:
-
-
-
-
+#tencent_analytics: 55255429
 
 
 #! ---------------------------------------------------------------

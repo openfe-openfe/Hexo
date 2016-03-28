@@ -8,7 +8,7 @@ tags: ['Java','我的作品','Hadoop','PostgreSQL']
 ---
 
 
-![Login UI](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-17-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F1.png)
+![Login UI](http://7xrnl9.com1.z0.glb.clouddn.com/image%2F%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%2Flogin.png)
 
 ## 背景
 
@@ -62,7 +62,7 @@ tags: ['Java','我的作品','Hadoop','PostgreSQL']
 
 系统的E-R图如下图所示(省略部分字段)：
 
-![E-R图](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-17-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FE-R%E5%9B%BE.png)
+![E-R图](http://7xrnl9.com1.z0.glb.clouddn.com/image%2F%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%2FE-R%E5%9B%BE.png)
 
 根据功能需求，建立的数据表分别为：
 
@@ -335,23 +335,23 @@ public class HdfsDAOImpl implements HdfsDAO {
 
 ### 登录界面：
 
-![Login](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-17-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Flogin.png)
+![Login](http://7xrnl9.com1.z0.glb.clouddn.com/image%2F%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%2Flogin.png)
 
 ### 注册界面：
 
-![Register](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-17-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fregister.png)
+![Register](http://7xrnl9.com1.z0.glb.clouddn.com/image%2F%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%2Fregister.png)
 
 ### 主界面：
 
-![MainUI](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-17-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F3.png)
+![MainUI](http://7xrnl9.com1.z0.glb.clouddn.com/image%2F%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%2Fmian.png)
 
 ### 三维地球可视化界面：
 
-![3D-Earth](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-17-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F3D-Earth.png)
+![3D-Earth](http://7xrnl9.com1.z0.glb.clouddn.com/image%2F%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%2F3D-Earth.png)
 
 ### 遥感地图可视化界面：
 
-![3D-Earth](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-17-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F5.png)
+![遥感图像](http://7xrnl9.com1.z0.glb.clouddn.com/image%2F%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%2F5.png)
 
 ## 总结
 

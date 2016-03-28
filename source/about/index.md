@@ -4,7 +4,7 @@ date: 2016-03-07 21:35:51
 comments: true
 ---
 
-![Programmer Images | center | 600*0 ](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-09Programmer.jpg)
+![Programmer Images](http://7xrnl9.com1.z0.glb.clouddn.com/image%2Fcommon%2FProgrammer.jpg)
 
 # about me
 

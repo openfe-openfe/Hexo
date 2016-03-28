@@ -9,7 +9,7 @@ tags: ['设计模式','设计原则','Java']
 
 很久之前就听说过设计模式的大名，但是一直没有集中精力完整的去学习设计模式，最近打算完整的学习一下设计模式，并把学习的收获及心得记录下来。本篇博客主要内容为：设计模式的六大设计原则
 
-![Design-Pattem-MindMap](http://7xrnl9.com1.z0.glb.clouddn.com/2016-03-17-Design-Pattem-MindMap.png)
+![Design-Pattem-MindMap](http://7xrnl9.com1.z0.glb.clouddn.com/image%2F%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%2FDesign-Pattem-MindMap.png)
 
 ## 概述
 
