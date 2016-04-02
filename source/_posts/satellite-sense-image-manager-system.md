@@ -22,6 +22,7 @@ tags: ['Java','我的作品','Hadoop','PostgreSQL']
 
 > * 项目名：卫星遥感图像管理系统
 > * 语言：Java
+> * 运行平台：PC
 > * 数据库：PostgreSQL
 > * 架构模式：MVC
 
