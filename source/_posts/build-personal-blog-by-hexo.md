@@ -132,7 +132,7 @@ theme: next
 ### 本地查看调试
  
 ```powershell
-$ hexo g #生成
+$ hexo g #生成静态页面，生成的内容在public文件夹下
 $ hexo s #启动本地服务，进行文章预览调试。hexo s --debug 命令可以用来调试
 ```
 
@@ -155,7 +155,7 @@ deploy:
   branch: master
 ```
 
-设置好了之后，使用下面的命令安装[ hexo-deployer-git ](https://github.com/hexojs/hexo-deployer-git)插件，只有安装了插件之后才可以部署到Github Pages。
+git地址建议使用SSH地址。在上面的参数设置好了之后，使用下面的命令安装[ hexo-deployer-git ](https://github.com/hexojs/hexo-deployer-git)插件，只有安装了插件之后才可以部署到Github Pages。
 
 ```powershell
 $ npm install hexo-deployer-git --save

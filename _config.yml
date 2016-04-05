@@ -99,3 +99,8 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+# 添加搜索
+search:
+  path: search.xml
+  field: post
