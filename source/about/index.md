@@ -25,7 +25,6 @@ comments: true
 
 我的联系方式，希望可以与技术控们一起讨论交流经验和技术。
 
-- **QQ**：253326975
 - **E-mail**：dkylin@foxmail.com
 - **Gmail**：gekylin@gmail.com
 
@@ -47,6 +46,7 @@ QQ群介绍：这是一个计算机技术交流群！我们欢迎热爱分享的
 - **QQ群号**：563965745
 - **Github Organizations**：[https://github.com/Techno-Geek](https://github.com/Techno-Geek)
 - **简书专题**：[http://www.jianshu.com/collection/01c8fe361cb0](http://www.jianshu.com/collection/01c8fe361cb0)
+- **进群福利**：群主每天上午都会分享高质量的早读技术文章、干货、资源等等。
 
 ![Techno-Geek](http://7xrnl9.com1.z0.glb.clouddn.com/image/about/Techno-Geek-qrcode.jpg)
 

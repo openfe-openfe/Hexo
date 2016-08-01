@@ -25,13 +25,23 @@ lantern官网：[http://getlantern.org/](http://getlantern.org/)
 
 lantern的Github：[https://github.com/getlantern/lantern](https://github.com/getlantern/lantern)
 
-## [shadowsocks-影梭](http://www.ishadowsocks.net/)
+
+注：由于现在Lantern使用人数急剧增多，所以现在在使用Google的时候可能会跳出人机验证的界面，因为使用人数太多，所以Google可能将其检测为机器人或爬虫了。这是正常的，正确输入验证码验证即可。
+
+## [ISS](http://www.ishadowsocks.net/)
 
 之前用的一款翻墙软件，这个没有lantern好用，但也还勉强不错。主要是它的官网不需要翻墙。
 
 但是这一款需要配置服务器地址跟密码，并且密码6小时换一次，而且有时候很不稳定。
 
-shadowsocks官网：[http://www.ishadowsocks.net/](http://www.ishadowsocks.net/)
+ISS官网：[http://www.ishadowsocks.net/](http://www.ishadowsocks.net/)
+
+## [XX-net](https://github.com/XX-net/XX-Net)
+
+这也是很不错的翻墙工具，但是配置比较麻烦，不过据说翻墙效果比lantern要好。本人暂时还没有亲自尝试过，所以就不多做评价了。喜欢折腾的小伙伴们可以去尝试一下哦。
+
+Github地址：[https://github.com/XX-net/XX-Net](https://github.com/XX-net/XX-Net)
+中文文档：[具体配置方法的中文文档](https://github.com/XX-net/XX-Net/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 
 ## 其他
 
